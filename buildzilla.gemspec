@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Jingwen Owen Ou"]
   s.email       = ["jingweno@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/jingweno/buildzilla"
   s.summary     = %q{A fast light weight build server.}
   s.description = %q{A fast light weight build server.}
 
